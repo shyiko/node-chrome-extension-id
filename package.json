@@ -1,0 +1,16 @@
+{
+  "name": "chrome-extension-id",
+  "description": "A way to get Chrome Extension ID",
+  "version": "0.1.0",
+  "author": "Stanley Shyiko <stanley.shyiko@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shyiko/node-chrome-extension-id"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.spec.js"
+  },
+  "keywords": ["chrome", "chromium", "extension"]
+}
