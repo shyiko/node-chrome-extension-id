@@ -15,7 +15,7 @@ var ceid = require('chrome-extension-id');
 
 var parseCRX = require('crx-parser'); // see https://github.com/shyiko/node-crx-parser
 
-fs.readFile(/tmp/mfabfdnimhipcapcioneheloaehhoggk.crx', function (err, buff) {
+fs.readFile('/tmp/mfabfdnimhipcapcioneheloaehhoggk.crx', function (err, buff) {
     parseCRX(buff, function (err, data) {
         var id = ceid(data.header.publicKey);
         ...
