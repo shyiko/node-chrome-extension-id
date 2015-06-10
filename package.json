@@ -1,6 +1,6 @@
 {
   "name": "chrome-extension-id",
-  "description": "A way to get Chrome Extension ID",
+  "description": "A way to get Chromium / Google Chrome Extension ID",
   "version": "0.1.0",
   "author": "Stanley Shyiko <stanley.shyiko@gmail.com>",
   "license": "MIT",

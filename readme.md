@@ -1,6 +1,6 @@
 # node-chrome-extension-id
 
-A way to get Chrome Extension ID. 
+A way to get Chromium / Google Chrome Extension ID. 
 
 # Installation
 
@@ -22,7 +22,7 @@ fs.readFile('/tmp/mfabfdnimhipcapcioneheloaehhoggk.crx', function (err, buff) {
     });
 });
 ```
- 
+       
 ## License
 
 [MIT License](https://github.com/shyiko/node-chrome-extension-id/blob/master/mit.license)
